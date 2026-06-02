@@ -49,6 +49,6 @@ while True:
         print("Gracias por utilizar nuestro software, hasta la próxima.")
         break
     else:
-        print("Ingrese un numero valido.")
+        print("Ingrese un numero valido Pendejo :D")
     
 
